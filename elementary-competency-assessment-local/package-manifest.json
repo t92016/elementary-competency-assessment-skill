@@ -1,0 +1,28 @@
+{
+  "name": "elementary-competency-assessment-local",
+  "version": "0.1.2",
+  "source_zip_sha256": "99D5B5E3E428B5ADF58534D94D740AD98FF65D0702467AEB93E3C86FC5C7D450",
+  "files": {
+    "examples/smoke-assessment.json": "9617ed9a0e3bda55175377af4ebbe09e7aff620bf7dc47be3297cf1731df8f9f",
+    "LICENSE": "8023210647241cc357b210527e4b795da7b2ff8ade3eade8cafae2cff37ed0b5",
+    "README.md": "76588501bdbdf695937343ff9a0e4221da61b2b0a79f7fc1b6a7b677452d982c",
+    "references/assessment-criteria.md": "c4ee55207e79187ccbebda833463b76faae27b19733d5a608d1f786e8e882dcc",
+    "references/assessment-data.md": "509b46e557576cd497f34385b8db501f66c51fc03cce3268dac14029af6a85ba",
+    "references/install-codex.md": "c36f4463ace15dc39f73781e265137ce6fa6d16ccf8e578aaadd9a3b81ebead2",
+    "references/install-opencode.md": "a549de3ab85c4a307eaf03eef9e7c27cc41d0b5afe6019fa51525b0ed9da8252",
+    "references/local-delivery.md": "02469cd5a69d63650d6d181d0643b1341f5527d71db500d52b9f40966c2ee23c",
+    "references/local-runtime.md": "acc2e8f8484977055a60f2242df4e9e80f0eaf13b75cdd58df691cea840bd8b3",
+    "references/material-intake.md": "f6402cde0e475c689ee2bc31794edeec3f297bbb4e045f0977e41281ad441f10",
+    "references/revision-flow.md": "993bf148f86cecbf111e6a2a748dd121057c30876ac4822b92d9f4b7ced5d48d",
+    "requirements.txt": "002fab3b1562d55eaceb6962d415855f2fb3605becdc1d05d3dcb8c98a12ef01",
+    "scripts/build_assessment.py": "191a161ef32721f917991e87fdacc6212dce883df48fda1903cd7b58423ffdfa",
+    "scripts/doctor.py": "631987721231d6f02b21d7ae57a05c569cdd6ada15f7790adfec35fe0b05358c",
+    "scripts/export_pdf.ps1": "abf45b672e925d65996ce12627ec50a43f42be6ea4fcedaab62dd3fdc3623ba6",
+    "scripts/install.ps1": "c02246d22e1d58a15dc554b1782e872bfc2b1cbebf3e0a8e636733cbc6874ce2",
+    "scripts/validate_package.py": "db7467130a9b201d6802a08a1a25719e4b446090ebf828176584671d7a723072",
+    "SKILL.md": "7d3cdac3da2a7e2035a0bc694fb2a89a32ec1059255d1ed23a7582e71f7021c2",
+    "templates/assessment-blueprint.md": "aaffca8d0f5c18ebe1f6fe3e8923b022528d1f275e2e005b0f3139255f0ae555",
+    "templates/student-paper.md": "a783b26413eae7fb581794f47c01455d5b16b653bd0ef44933cf2166a7b47e32",
+    "templates/teacher-paper.md": "fefdbc08ed9cf10d19b9bcb8c3e7c1b7cacb4ea567540fab065ad81e229916f9"
+  }
+}

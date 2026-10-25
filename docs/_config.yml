@@ -1,0 +1,12 @@
+title: 國小素養試題出題 Skill
+description: Codex與OpenCode的教材查證、素養命題、詳解與Word／PDF交付流程
+lang: zh-Hant
+theme: jekyll-theme-cayman
+show_downloads: false
+url: https://t92016.github.io
+baseurl: /elementary-competency-assessment-skill
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
